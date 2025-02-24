@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Red-Jen!
+## 👋 Hey there, I'm Reda!
 
 Welcome to my GitHub profile! I'm passionate about web development and always eager to learn new technologies.
 
